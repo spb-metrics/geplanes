@@ -1,0 +1,12 @@
+========
+Versão 3.0.4
+========
+
+1) Manutenção Evolutiva
+
+
+2) Manutenção Corretiva
+-Correção de bug na exibição do painel de gestão
+-Correção de bug nas permissões de acesso
+
+

@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans
+END
+LogProcesso.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/LogProcesso.java
+END
+MatrizFCSIniciativaFator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MatrizFCSIniciativaFator.java
+END
+Comentario.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Comentario.java
+END
+AuditoriaGestaoIndicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AuditoriaGestaoIndicador.java
+END
+Papel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Papel.java
+END
+AuditoriaInterna.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AuditoriaInterna.java
+END
+MatrizFCS.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MatrizFCS.java
+END
+MatrizFCSIniciativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MatrizFCSIniciativa.java
+END
+ParametrosSistema.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ParametrosSistema.java
+END
+ControleCadastro.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ControleCadastro.java
+END
+AcompanhamentoIndicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AcompanhamentoIndicador.java
+END
+MapaEstrategico.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MapaEstrategico.java
+END
+UsuarioPapel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/UsuarioPapel.java
+END
+UsuarioAuditoriaInterna.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/UsuarioAuditoriaInterna.java
+END
+ObjetivoEstrategico.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ObjetivoEstrategico.java
+END
+AnexoAnomalia.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AnexoAnomalia.java
+END
+Iniciativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Iniciativa.java
+END
+RequisitoNorma.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/RequisitoNorma.java
+END
+MapaNegocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MapaNegocio.java
+END
+UnidadeGerencial.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/UnidadeGerencial.java
+END
+AuditoriaGestao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AuditoriaGestao.java
+END
+ModeloAuditoriaGestao.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ModeloAuditoriaGestao.java
+END
+Ocorrencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Ocorrencia.java
+END
+Tela.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Tela.java
+END
+MapaCompetencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MapaCompetencia.java
+END
+AnexoIndicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AnexoIndicador.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Usuario.java
+END
+ItemFatorAvaliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ItemFatorAvaliacao.java
+END
+Hierarquizavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Hierarquizavel.java
+END
+UsuarioUnidadeGerencial.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/UsuarioUnidadeGerencial.java
+END
+Indicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Indicador.java
+END
+MatrizFCSFator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/MatrizFCSFator.java
+END
+DistribuicaoPesosIndicadores.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/DistribuicaoPesosIndicadores.java
+END
+Permissao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Permissao.java
+END
+ItemModeloAuditoriaGestao.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ItemModeloAuditoriaGestao.java
+END
+PainelIndicadorFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/PainelIndicadorFiltro.java
+END
+AcaoPreventiva.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AcaoPreventiva.java
+END
+CompetenciaOrganizacional.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/CompetenciaOrganizacional.java
+END
+NivelHierarquico.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/NivelHierarquico.java
+END
+ObjetivoMapaEstrategico.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ObjetivoMapaEstrategico.java
+END
+EmailHistorico.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/EmailHistorico.java
+END
+FatorAvaliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/FatorAvaliacao.java
+END
+Norma.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Norma.java
+END
+PlanoGestao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/PlanoGestao.java
+END
+UnidadeMedida.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/UnidadeMedida.java
+END
+PerspectivaMapaEstrategico.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/PerspectivaMapaEstrategico.java
+END
+ComentarioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ComentarioItem.java
+END
+SolicitacaoRepactuacaoIndicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/SolicitacaoRepactuacaoIndicador.java
+END
+AuditoriaGestaoIndicadorItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/AuditoriaGestaoIndicadorItem.java
+END
+ItemAuditoriaInterna.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ItemAuditoriaInterna.java
+END
+Anomalia.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Anomalia.java
+END
+SolicitacaoCancelamentoIndicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/SolicitacaoCancelamentoIndicador.java
+END
+EmailHistoricoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/EmailHistoricoUsuario.java
+END
+ControleCadastroItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/ControleCadastroItem.java
+END
+Perspectiva.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Perspectiva.java
+END
+Arquivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Arquivo.java
+END
+Competencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Competencia.java
+END
+CausaEfeito.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/CausaEfeito.java
+END
+Atividade.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Atividade.java
+END
+Mensagem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/Mensagem.java
+END
+PlanoAcao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/beans/PlanoAcao.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process
+END
+DistribuicaoPesosIndicadoresProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/DistribuicaoPesosIndicadoresProcess.java
+END
+MatrizFCSProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/MatrizFCSProcess.java
+END
+ApresentacaoResultadosProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/ApresentacaoResultadosProcess.java
+END
+SolicitacaoRepactuacaoIndicadorProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/SolicitacaoRepactuacaoIndicadorProcess.java
+END
+PainelControle.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/PainelControle.java
+END
+SolicitacaoCancelamentoIndicadorProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/SolicitacaoCancelamentoIndicadorProcess.java
+END
+DefinicaoNegocioProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/DefinicaoNegocioProcess.java
+END
+SobreLinkComProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/SobreLinkComProcess.java
+END
+EnvioEmailProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/EnvioEmailProcess.java
+END
+SobreGeplanesProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/SobreGeplanesProcess.java
+END
+LancamentoValorRealProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/LancamentoValorRealProcess.java
+END
+DefinicaoCompetenciaProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/DefinicaoCompetenciaProcess.java
+END
+DefinicaoEstrategiaProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/DefinicaoEstrategiaProcess.java
+END
+IniciativaPlanoAcaoProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/IniciativaPlanoAcaoProcess.java
+END
+LogProcessoProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/controller/process/LogProcessoProcess.java
+END

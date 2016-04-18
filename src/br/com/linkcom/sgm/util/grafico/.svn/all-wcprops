@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico
+END
+GraficoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/GraficoServlet.java
+END
+GraficoBarra.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/GraficoBarra.java
+END
+GraficoSerie.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/GraficoSerie.java
+END
+GraficoRadar.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/GraficoRadar.java
+END
+GraficoLinha.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/GraficoLinha.java
+END
+GraficoPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/GraficoPizza.java
+END
+MySpiderWebPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/util/grafico/MySpiderWebPlot.java
+END

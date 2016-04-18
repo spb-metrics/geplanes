@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio
+END
+auditoriaGestao.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/auditoriaGestao.jsp
+END
+mapaCompetencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/mapaCompetencia.jsp
+END
+anomaliaListagem.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/anomaliaListagem.jsp
+END
+desempenho.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/desempenho.jsp
+END
+pendenciaCadastro.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/pendenciaCadastro.jsp
+END
+anomaliaSinteticoPorStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/anomaliaSinteticoPorStatus.jsp
+END
+mapaEstrategico.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/mapaEstrategico.jsp
+END
+pendenciaAnomalia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/pendenciaAnomalia.jsp
+END
+indicadoresEstrategico.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/indicadoresEstrategico.jsp
+END
+iniciativaPlanoAcao.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/iniciativaPlanoAcao.jsp
+END
+mapaNegocio.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/mapaNegocio.jsp
+END
+matrizFCS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/matrizFCS.jsp
+END
+alcanceMetaInstitucional.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/WebRoot/WEB-INF/jsp/sgm/relatorio/alcanceMetaInstitucional.jsp
+END

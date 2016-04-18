@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro
+END
+AnomaliaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/AnomaliaFiltro.java
+END
+UnidadeGerencialFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/UnidadeGerencialFiltro.java
+END
+OcorrenciaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/OcorrenciaFiltro.java
+END
+ModeloAuditoriaGestaoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/ModeloAuditoriaGestaoFiltro.java
+END
+AuditoriaGestaoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/AuditoriaGestaoFiltro.java
+END
+PerspectivaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/PerspectivaFiltro.java
+END
+UsuarioFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/UsuarioFiltro.java
+END
+MensagemFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/MensagemFiltro.java
+END
+IndicadorFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/IndicadorFiltro.java
+END
+PapelFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/PapelFiltro.java
+END
+AuditoriaInternaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/AuditoriaInternaFiltro.java
+END
+ParametrosSistemaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/ParametrosSistemaFiltro.java
+END
+AcaoPreventivaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/AcaoPreventivaFiltro.java
+END
+CompetenciaOrganizacionalFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/CompetenciaOrganizacionalFiltro.java
+END
+NivelHierarquicoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/NivelHierarquicoFiltro.java
+END
+AlterarSenhaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/AlterarSenhaFiltro.java
+END
+ObjetivoEstrategicoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/ObjetivoEstrategicoFiltro.java
+END
+EmailHistoricoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/EmailHistoricoFiltro.java
+END
+NormaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/NormaFiltro.java
+END
+FatorAvaliacaoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/FatorAvaliacaoFiltro.java
+END
+PlanoGestaoFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/PlanoGestaoFiltro.java
+END
+UnidadeMedidaFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/UnidadeMedidaFiltro.java
+END
+PainelControleFiltro.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geplanes/!svn/ver/206/tags/Geplanes-3.0.4/Geplanes_BSC/src/br/com/linkcom/sgm/filtro/PainelControleFiltro.java
+END
